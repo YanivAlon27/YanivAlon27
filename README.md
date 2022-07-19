@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Yaniv Alon
+- 👀 I’m interested in Data Data Science
+- 🌱 I’m currently learning Data Science
+- 💞️ I’m looking to collaborate on machine learning and AI
+- 📫 How to reach me yanivalon512@gmail.com or https://www.linkedin.com/in/yaniv-alon-514955108/
